@@ -10,11 +10,7 @@
   },
   "dependencies": {
     "node-sass": "^5.0.0",
-    "sass-loader": "^10.1.1"
-<<<<<<< HEAD
-    
-=======
+    "sass-loader": "^10.1.1",
     "@nuxt/kit": "^0.6.4"
->>>>>>> 42272fd18186c16a956dc25c65243d0420a846e0
   }
 }
